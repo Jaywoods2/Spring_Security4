@@ -1,8 +1,10 @@
 package com.hand.vo;
 
+import java.util.List;
+
 public class DbUser {
 	private String username;  
-    private String password;  
+    private String password;
     private Integer access;
 	public String getUsername() {
 		return username;

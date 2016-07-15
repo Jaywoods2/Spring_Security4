@@ -28,8 +28,8 @@ public class UserDao {
         DbUser user = null;  
   
         user = new DbUser();  
-        user.setUsername("admin");  
-  
+        user.setUsername("admin"); 
+
         // "admin"经过MD5加密后  
         user.setPassword("21232f297a57a5a743894a0e4a801fc3");  
         user.setAccess(1);  
@@ -38,7 +38,7 @@ public class UserDao {
   
         user = new DbUser();  
         user.setUsername("user");  
-  
+
         // "user"经过MD5加密后  
         user.setPassword("ee11cbb19052e40b07aac0ca060c23ee");  
         user.setAccess(2);  

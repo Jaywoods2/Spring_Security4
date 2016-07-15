@@ -1,3 +1,4 @@
-Spring+Security3集成、用户登录、权限校验
+Spring4.3+Security4.1集成、用户登录、权限校验
+与上版本修改spring-security.xml 和Service实现类
 eclipse+jdk1.8
 mvn项目
